@@ -21,7 +21,7 @@ Aplicação desktop em Python que exibe as informações do clima da cidade de E
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/clima-eusebio.git
+git clone https://github.com/renatoapdl/clima-eusebio.git
 cd clima-eusebio
 ```
 
