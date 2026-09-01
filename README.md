@@ -14,11 +14,24 @@ Aplicação desktop em Python que exibe as informações do clima da cidade de E
 
 ## Pré-requisitos
 
-- Python 3.7+
-- `tkinter` (incluso na instalação padrão do Python)
 - Conexão com a internet
 
-## Instalação
+### 1. Instalar Python
+
+1. Acesse https://www.python.org/downloads/
+2. Clique em **Download Python 3.x.x**
+3. Na instalação, marque a opção **"Add Python to PATH"**
+4. Clique em **Install Now**
+
+### 2. Instalar Git
+
+1. Acesse https://git-scm.com/download/win
+2. Baixe o instalador (64-bit)
+3. Rode o `.exe` e siga o assistente (pode deixar tudo no padrão)
+
+### 3. Baixar o projeto
+
+Abra o PowerShell e execute:
 
 ```bash
 git clone https://github.com/renatoapdl/clima-eusebio.git
